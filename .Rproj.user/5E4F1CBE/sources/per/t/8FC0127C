@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1526980700173.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1243258295",
+    "id" : "8FC0127C",
+    "lastKnownWriteTime" : 1527858506,
+    "last_content_update" : 1527858506131,
+    "path" : "~/Documents/MIT/course/2018_S1/FIT5147 Data exploration and visualisation S1 2018/Assignment/Assignment/Final report/R project/FIT5147Final/Main.R",
+    "project_path" : "Main.R",
+    "properties" : {
+        "cursorPosition" : "12,7",
+        "scrollLine" : "1",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

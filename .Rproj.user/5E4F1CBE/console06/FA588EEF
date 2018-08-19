@@ -1,0 +1,7 @@
+[KlinyanyideAir:FIT5147Final NitaLin$ install.packages(c("tm", "SnowballC", "wordcloud", "RColorB rewer", "RCurl", "XML")
+bash: syntax error near unexpected token `c'
+[KlinyanyideAir:FIT5147Final NitaLin$ inspect(docs)
+bash: syntax error near unexpected token `docs'
+]0;~/Documents/MIT/course/2018_S1/FIT5147 Data exploration and visualisation S1 2018/Assignment/Assignment/Final report/R project/FIT5147FinallinyanyideAir:FIT5147Final NitaLin$ inspect(docs)
+bash: syntax error near unexpected token `docs'
+]0;~/Documents/MIT/course/2018_S1/FIT5147 Data exploration and visualisation S1 2018/Assignment/Assignment/Final report/R project/FIT5147FinallinyanyideAir:FIT5147Final NitaLin$ 
